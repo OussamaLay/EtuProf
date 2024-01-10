@@ -1,6 +1,6 @@
 # EtuProf
 
-Site web permettant aux professeurs et aux étudiants d'accéder à un tableau de bord centralisé pour la gestion des notes et des absences.
+Ce site web permettant aux professeurs et aux étudiants d'accéder à un tableau de bord centralisé pour la gestion des notes et des absences.
 
 ## Contexte
 
